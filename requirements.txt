@@ -1,0 +1,12 @@
+scrapy
+playwright
+beautifulsoup4
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pdfminer.six
+pytesseract
+Pillow
+pdf2image
+opencv-python
