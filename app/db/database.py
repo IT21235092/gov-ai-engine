@@ -58,9 +58,9 @@ class GovernmentNotice(Base):
         uselist=False
     )
 
-    # -----------------
+    # ----------------
     # CORE NOTICE DATA
-    # -----------------
+    # ----------------
     title = Column(String(500), nullable=False)
     source = Column(String(200), nullable=False)
     source_url = Column(Text, nullable=False)
